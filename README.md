@@ -11,7 +11,7 @@ Skynet.Luxor.tech - https://skynet.luxor.tech/AACye4k2LuqnyHukYK20UgA_qMcBSOAF8h
 SkyDrain.net - https://skydrain.net/AACye4k2LuqnyHukYK20UgA_qMcBSOAF8hsbNeoGbat1Ow/?nocache=true    
 SiaSky.net - https://siasky.net/AACye4k2LuqnyHukYK20UgA_qMcBSOAF8hsbNeoGbat1Ow/?nocache=true    
 
-As seen in:     
+As seen in:   
 https://siastats.info/skynet_stats
 
 If you would like to request the addition or removal of a portal, or for anything else please either open an issue or contact me on discord **Jayto#4091**
