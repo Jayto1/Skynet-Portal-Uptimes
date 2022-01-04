@@ -15,3 +15,5 @@ As seen in:
 https://siastats.info/skynet_stats
 
 If you would like to request the addition or removal of a portal, or for anything else please either open an issue or contact me on discord **Jayto#4091**
+
+Icons by [Icons8](https://icons8.com/)
