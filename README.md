@@ -1,9 +1,8 @@
 # Skynet-Portal-Uptimes
-Skynet Portal Uptimes
-https://stats.uptimerobot.com/AXYlBU9DxY
+[Skynet Portal Uptimes](https://stats.uptimerobot.com/AXYlBU9DxY)
 
 As seen in:   
-https://siastats.info/skynet_stats
+[SiaStats - Portal Stats](https://siastats.info/skynet_stats)
 
 Links used:
 
