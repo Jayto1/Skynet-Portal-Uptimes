@@ -6,10 +6,8 @@ As seen in:
 
 Links used:
 
-[Vault.LightSpeedHosting.com](https://vault.lightspeedhosting.com/AACye4k2LuqnyHukYK20UgA_qMcBSOAF8hsbNeoGbat1Ow/?nocache=true)   
-[SkyPortal.xyz](https://skyportal.xyz/AACye4k2LuqnyHukYK20UgA_qMcBSOAF8hsbNeoGbat1Ow/?nocache=true)   
-[Skynet.Tutemwesi.com](https://skynet.tutemwesi.com/AACye4k2LuqnyHukYK20UgA_qMcBSOAF8hsbNeoGbat1Ow/?nocache=true)   
-[Skynet.Luxor.tech](https://skynet.luxor.tech/AACye4k2LuqnyHukYK20UgA_qMcBSOAF8hsbNeoGbat1Ow/?nocache=true)   
+[FilePortal.org](https://fileportal.org/AACye4k2LuqnyHukYK20UgA_qMcBSOAF8hsbNeoGbat1Ow/?nocache=true)   
+[SkyPortal.xyz](https://skyportal.xyz/AACye4k2LuqnyHukYK20UgA_qMcBSOAF8hsbNeoGbat1Ow/?nocache=true)    
 [SkyDrain.net](https://skydrain.net/AACye4k2LuqnyHukYK20UgA_qMcBSOAF8hsbNeoGbat1Ow/?nocache=true)    
 [SiaSky.net](https://siasky.net/AACye4k2LuqnyHukYK20UgA_qMcBSOAF8hsbNeoGbat1Ow/?nocache=true)    
 
